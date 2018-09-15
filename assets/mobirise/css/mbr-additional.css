@@ -3779,8 +3779,8 @@ body {
   color: #465052;
 }
 .cid-qRS1ZFgeM1 {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-qRS1ZFgeM1 .mbr-text,
@@ -3789,9 +3789,11 @@ body {
 }
 .cid-qRS1ZFgeM1 .mbr-text P {
   color: #2a3031;
+  text-align: left;
 }
 .cid-qRS1ZFgeM1 .mbr-text DIV {
   color: #2a3031;
+  text-align: left;
 }
 .cid-qRS0LKjZwk {
   padding-top: 15px;
