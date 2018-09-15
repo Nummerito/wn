@@ -42,17 +42,17 @@ body {
 }
 .display-5 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.4rem;
+  font-size: 0.8rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.24rem;
+  font-size: 1.28rem;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.44rem;
+  font-size: 1.52rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -76,9 +76,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.12rem;
-    font-size: calc( 1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.64rem;
+    font-size: calc( 0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -654,13 +654,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Rubik', sans-serif;
-  font-size: 0.9rem;
+  font-size: 0.95rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.44rem;
+  font-size: 1.52rem;
 }
 .form-control,
 .form-control:focus {
@@ -1373,7 +1373,7 @@ body {
   display: none;
 }
 .cid-qRPsgjaifY {
-  padding-top: 105px;
+  padding-top: 120px;
   padding-bottom: 60px;
   background-image: url("../../../assets/images/frame-blue-5-2000x368.png");
 }
@@ -3829,22 +3829,22 @@ body {
 .cid-qRS0LKjZwk .mbr-text UL {
   color: #2a3031;
 }
-.cid-qRWJxmIvfj {
+.cid-r3JaJ3ZWvD {
   padding-top: 30px;
   padding-bottom: 15px;
   background-color: #2a3031;
 }
 @media (min-width: 992px) {
-  .cid-qRWJxmIvfj .mbr-figure {
+  .cid-r3JaJ3ZWvD .mbr-figure {
     padding-right: 4rem;
   }
 }
 @media (max-width: 992px) {
-  .cid-qRWJxmIvfj .mbr-figure {
+  .cid-r3JaJ3ZWvD .mbr-figure {
     padding-bottom: 1rem;
   }
 }
-.cid-qRWJxmIvfj .mbr-text {
+.cid-r3JaJ3ZWvD .mbr-text {
   color: #d6d6d6;
   text-align: right;
 }
